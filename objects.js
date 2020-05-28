@@ -11,3 +11,7 @@ var playlist= {
   theBeatles: "Let it be",
   bobMarley: "Could you be loved"
   }
+  function updatePlaylist(playlist, artistName, songTitle){
+    playlist.artistName=songTitle;
+    return playlist
+  }
