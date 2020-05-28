@@ -6,4 +6,8 @@ function destructivelyUpdateObjectWithKeyAndValue(obj, key, value){
 }
 const recipe = {eggs:3}
 
-var playlist= {}
+var playlist= {
+  Odesza: "Boy", 
+  theBeatles: "Let it be",
+  bobMarley: "Could you be loved"
+  }
