@@ -5,3 +5,5 @@ function destructivelyUpdateObjectWithKeyAndValue(obj, key, value){
   return obj
 }
 const recipe = {eggs:3}
+
+var playlist= {}
